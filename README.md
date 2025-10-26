@@ -17,10 +17,11 @@
 ### 🧍‍♂️ About Me
 
 - 👋 My name is **Bautista**, I'm **17 years old**, born on **May 5, 2008**.  
+- 📍 I live in **Hurlingham, Buenos Aires, Argentina** 🇦🇷  
 - 💜 My favorite color is **purple**, and I love **soft and vintage styles**.  
-- 🎵 I enjoy all kinds of **music** (except most contemporary songs, though I like some).  
-- 🏐 I practiced **volleyball**, **soccer**, **basketball**, **ballet**, **singing**, and **piano**.  
-- 🌍 I enjoy combining creativity, design, and logic — whether it’s in code or real life.  
+- 🎧 I enjoy all kinds of **music** (except most contemporary songs, though I like some).  
+- 🏐 I practiced **volleyball**, ⚽ **soccer**, 🏀 **basketball**, 🎤 **singing**, and 🎹 **piano**.  
+- 🌈 I enjoy combining **creativity**, **design**, and **logic** — whether it’s in code or real life.  
 
 ---
 
