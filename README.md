@@ -58,7 +58,7 @@
 <br>
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BautistaSanchez&layout=compact&theme=tokyonight&border_radius=20)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BautistaSanchez&layout=compact&theme=tokyonight&border_radius=false)
 
 </div>
 
