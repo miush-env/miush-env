@@ -12,7 +12,7 @@
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ### 🧍‍♂️ About Me
 
@@ -54,8 +54,9 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=BautistaSanchez&theme=tokyonight&show_icons=true&border_radius=20)
+![](https://github-readme-streak-stats.herokuapp.com/?user=BautistaSanchez&theme=dark&hide_border=false)
 <br>
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BautistaSanchez&layout=compact&theme=tokyonight&border_radius=20)
 
