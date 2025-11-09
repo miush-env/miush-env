@@ -1,4 +1,7 @@
 <div align="center">
+   <img width=100% src="https://i.pinimg.com/originals/0a/7b/e7/0a7be7b9f24ce4dd9f6243476d03cf98.gif" />
+</div>
+<div align="center">
    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9b59b6&reversal=true" />
 </div>
 
@@ -8,11 +11,11 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=17%20years%20old%20developer;Born%20on%2005%2F05%2F2008;Loves%20vintage%20style%20and%20soft%20colors;Volleyball%20player%20and%20music%20lover;Cooking%20enthusiast%20🍳;Always%20learning%20something%20new!&center=true&width=500&height=45&color=9b59b6">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=17%20years%20old%20developer;Born%20on%2005%2F05%2F2008;Loves%20vintage%20style%20and%20soft%20colors;Volleyball%20player%20and%20music%20lover;Cooking%20enthusiast%20🍳;Always%20learning%20something%20new!&center=true&width=500&height=45&color=ffffff">
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+---
 
 ### 🧍‍♂️ About Me
 
@@ -52,7 +55,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="center" style="display:flex">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BautistaSanchez&theme=dark&hide_border=false)
 <br>
