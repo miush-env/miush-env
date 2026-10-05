@@ -7,9 +7,9 @@
 <br />
 
 <div align="center">
-   
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4C67AB&vCenter=true&width=550&lines=17+year+old+Web+Developer+from+Argentina;Focused+on+clean+design+and+solid+structure;Building+projects+step+by+step;Turning+ideas+into+functional+experiences)](https://git.io/typing-svg)
-   
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7869D2&vCenter=true&width=550&lines=18-year-old+Web+Developer+from+Argentina;Focused+on+clean+design+and+solid+structure;Building+projects+step+by+step;Turning+ideas+into+functional+experiences" alt="Typing SVG" />
+  </a>
 </div>
 
 ### 🧍‍♂️ About Me
@@ -57,5 +57,5 @@ I'm always open to discussing new opportunities, collaborations, or simply talki
 ---
 
 <div align="center">
-   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=4B6D9A&reversal=true" />
+   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=62ACE9&reversal=true" />
 </div>
