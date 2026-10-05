@@ -1,5 +1,5 @@
 <div align="center">
-   <img width=100% src="https://i.pinimg.com/1200x/03/aa/5e/03aa5ebc17c6626dd7cf0a2a3ae86cc0.jpg" />
+   <img width=100% src="https://pub-8aae54f3b5504cf1b7e0b3e394997fe7.r2.dev/1234%2FbannerGithub.jpg" />
 </div>
 
 <h1 align="center">Hi, I'm Bautista 👋</h1>
@@ -14,20 +14,17 @@
 
 ### 🧍‍♂️ About Me
 
-> I’m a web developer focused on Full Stack development, passionate about building projects with a clear idea, a defined style, and a plan to follow. I feel comfortable working on already established foundations, but I also enjoy creating the full structure of my own projects when needed.
-> 
-> I’m deeply interested in computers and customization, both on the hardware and software side. I have a solid understanding of graphic design fundamentals, and I usually take visual inspiration from references (like Pinterest) to reinterpret them, adapt them to my own style, or recreate them as a personal challenge.
+> I’m a full-stack developer who loves building things that make life easier. I usually kick off projects to solve my own day-to-day problems and then polish them so anyone can use them. I enjoy clean, intentional design, understanding how systems work under the hood, and customizing every tool I use.
+
+> When I’m away from the keyboard, you’ll find me going for walks, enjoying the outdoors, sipping a good coffee, or playing volleyball.
 
 <br />
 
-### 🎯 What I focus on
+### 🎯 My Approach
 
-- Building modern, responsive, and functional interfaces  
-- Working on projects with clear goals and prior planning  
-- Progressive improvement of digital products  
-- Constant learning and solving real-world problems  
-
-I prefer working with a defined plan, since it helps me stay motivated, see real progress, and avoid burnout. That said, I’m open to last-minute changes if the project requires it. When I get stuck, I use AI as support, always trying to understand the reason behind each solution so I can apply it on my own later.
+- Structure & Consistency: I prefer working with a clear roadmap—it keeps me focused, motivated, and ensures solid progress without burnout.
+- Memorable Experiences: I aim to create web apps that are reliable, intuitive, and visually sharp.
+-Hands-on Problem Solving: Always learning and adapting to new challenges, leveraging modern tools (including AI) to speed up workflows without ever losing the craft behind the code.  
 
 ---
 
